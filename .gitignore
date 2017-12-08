@@ -1,5 +1,5 @@
 #ignore any eagle backup files
-*.#*
+*.l#*
 
 #ignore others and the graveyard
 graveyard/
